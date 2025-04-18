@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 </div>
 
 <div width="500">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
     
 ###
 
-<p align="center">
+<p align="left">
   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
   <img width="500"  src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
