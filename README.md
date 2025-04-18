@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
 <p align="left">My name is Bernard and I'm a Solutions Architect, from the US</p>
 
 ###
