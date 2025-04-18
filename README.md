@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 ![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes)
+
+![Followers](https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social)
+
+
+
