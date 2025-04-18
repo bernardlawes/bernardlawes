@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes)
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-![Followers](https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social)
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+![Followers](https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social)
 
 
