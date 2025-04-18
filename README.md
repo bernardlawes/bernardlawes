@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img width="380"  src="https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    &nbsp; ###
+    &nbsp;
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
     
