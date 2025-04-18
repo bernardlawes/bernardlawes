@@ -53,9 +53,10 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<div width="500">
-  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+<p align="left">
+  <img width="380"  src="https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
     
 ###
 
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 
 
 
-<img width="300"  src="https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
 
 <p align="center">
   
