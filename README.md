@@ -35,30 +35,37 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="jest logo"  />
+<div>
+    <div align="left" width="380">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="typescript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="csharp logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="react logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="nestjs logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="jest logo"  />
+    </div>
+    <div width="500">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </div>
 </div>
 
 ###
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="500"  src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
 </p>
-<img width="300"  src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+
+
 <img width="300"  src="https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 <p align="center">
