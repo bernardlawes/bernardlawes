@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
