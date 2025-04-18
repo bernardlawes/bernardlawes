@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 ###
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="300"  src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
