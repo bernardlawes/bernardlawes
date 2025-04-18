@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact)
 
 ![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight)
+</p>
 
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes)
 
 ![Followers](https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social)
-
+</p>
 
 
