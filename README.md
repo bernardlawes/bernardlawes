@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">My name is Bernard and I'm a Solutions Architect, from the US - who's worked across the Americas, Europe, and Asia Pacific</p>
+<p align="left">My name is Bernard and I'm a Solutions Architect, from the US</p>
 
 ###
 
