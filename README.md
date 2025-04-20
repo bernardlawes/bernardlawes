@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Mandaring Chinese<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2000<br>📚 From the streets of Kyoto to the clouds of AWS, I'm a solutions architect who doesn't just pitch innovation — I build it<br>🎯 Goals: On a mission to make tech that thinks faster, sees sharper, and works smarter<br>🎲 Fun fact: ...</p>
 
 ###
 
