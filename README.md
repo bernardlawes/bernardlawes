@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 <h2 align="left">About me</h2>
 
 ###
+<a href="https://www.linkedin.com/in/lawes" rel="nofollow">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bernard Lawes Linkedin" height="30" width="40" style="max-width:100%">
+</a>
 
+###
 <p align="left">✨ Creating bugs since 2000<br>👨‍💻 Technical polymath. Global hustler. Builder at heart.<br/>📚 From the streets of Kyoto to the clouds of AWS, I'm a solutions architect who doesn't just pitch innovation — I build it<br>🎯 Goals: On a mission to make tech that thinks faster, sees sharper, and works smarter<br>🎲 Fun fact: ...</p>
 
 ###
