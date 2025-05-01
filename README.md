@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 <div>
     <div align="center" width="380">
         <a href="https://www.linkedin.com/in/lawes" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" ></a>
-        <a href="https://bernardlawes.com/in/lawes" rel="nofollow" target="_blank">
-             <img align="center" src="https://bernardlawes.com/apple-touch-icon.png" alt="Website" height="40" width="40" >
-        </a>
+        <a href="https://bernardlawes.com/" rel="nofollow" target="_blank"><img align="center" src="https://bernardlawes.com/apple-touch-icon.png" alt="Website" height="40" width="40" ></a>
     </div>
 </div>
 ###
