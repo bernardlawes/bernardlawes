@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <h2 align="Left">Cloud Platforms</h2>
 <div>
     <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="mysql logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="sqlite logo"  />
       <img width="12" />
@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 
 ###
 <h2 align="Left">GitHub Stats</h2>
+###
 
 <p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
