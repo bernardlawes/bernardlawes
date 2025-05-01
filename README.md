@@ -108,7 +108,9 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
 <h2 align="Left">GitHub Stats</h2>
+
 ###
 
 <p align="center">
