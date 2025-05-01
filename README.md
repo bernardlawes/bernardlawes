@@ -75,6 +75,28 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+<h2 align="Left">Tools & Devops</h2>
+<div>
+    <div align="center" width="380">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="aws logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="sqlite logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="postgresql logo"  />
+      <img width="12" />   
+    </div>
+</div>
+
+<h2 align="Left">Edge & IoT</h2>
+<div>
+    <div align="center" width="380">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="40" alt="aws logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="sqlite logo"  />
+      <img width="12" />
+    </div>
+</div>
+
 <h2 align="Left">Web / API / Formats</h2>
 <div>
     <div align="center" width="380">
