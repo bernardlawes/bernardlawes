@@ -31,10 +31,19 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me:</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardlawes)
+<p align="center">
+  <a href="https://bernardlawes.com">
+    <img src="https://img.shields.io/badge/Website-BernardLawes.com-0a0a0a?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="https://github.com/bernardlawes">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/bernardlawes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardlawes)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardlawes)
+
 <div>
     <div align="center" width="380">
 
