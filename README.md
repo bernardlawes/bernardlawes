@@ -27,20 +27,6 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">Connect with me:</h2>
-<p align="center">
-  <a href="https://bernardlawes.com/" title="Visit my website (Ctrl+Click to open in new tab)">
-    <img src="https://bernardlawes.com/apple-touch-icon.png" alt="Website" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/bernardlawes" title="GitHub Profile">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bernardlawes/" title="Connect on LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40">
-  </a>
-</p>
-
 <div>
     <div align="center" width="380">
         <a href="https://github.com/bernardlawes" title="GitHub Profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="typescript logo"  /></a>
