@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h2 align="left">Connect with me:</h2>
 <div>
     <div align="center" width="380">
-        <a href="https://github.com/bernardlawes" title="GitHub Profile"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"></a>
+        <a href="https://github.com/bernardlawes" title="GitHub Profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /></a>
         <a href="https://www.linkedin.com/in/lawes" rel="nofollow" target="_blank" title="Connect on LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" ></a>
         <a href="https://bernardlawes.com/" rel="nofollow" target="_blank" title="Visit my website (Ctrl+Click to open in new tab)"><img align="center" src="https://bernardlawes.com/apple-touch-icon.png" alt="Website" height="40" width="40" ></a>
     </div>
