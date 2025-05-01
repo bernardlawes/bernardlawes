@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Coding Languages</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
