@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/lawes" rel="nofollow" target="_blank">
-    <img align="center" src="https://bernardlawes.com/apple-touch-icon.png" alt="Bernard Lawes Linkedin" height="40" width="40" >
-    <img width="12" />
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bernard Lawes Linkedin" height="30" width="40" >
-    
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40" >
 </a>
-
+<a href="https://bernardlawes.com/in/lawes" rel="nofollow" target="_blank">
+     <img align="center" src="https://bernardlawes.com/apple-touch-icon.png" alt="Website" height="40" width="40" >
+</a>
 ###
 
 <h2 align="left">Languages</h2>
