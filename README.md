@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-<h2 align="left">Languages</h2>
+<h3 align="left">Languages</h3>
 
 ###
 
