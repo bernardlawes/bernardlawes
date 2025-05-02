@@ -98,7 +98,7 @@ Here are some ideas to get you started:
       <img width="12" />   
     </div>
 </div>
-
+<!--
 <h2 align="Left">Edge</h2>
 <div>
     <div align="center" width="380">
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
       <img width="12" />
     </div>
 </div>
-
+-->
 <h2 align="Left">Web</h2>
 <div>
     <div align="center" width="380">
