@@ -46,9 +46,7 @@ Here are some ideas to get you started:
    <img width="870px" src="https://github-readme-activity-graph.vercel.app/graph?username=bernardlawes&amp;theme=github-compact" alt="GitHub Activity Graph" class="w-full rounded">
 </p>
 
-<table>
-  <tr>
-    <td>
+
 <h3 align="left">Languages</h3>
 
 ###
@@ -155,8 +153,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-</td>
-<td>
+
 
 ###
 
@@ -185,10 +182,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-</td>
 
-</tr>
-</table>
     
 
 
