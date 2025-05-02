@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h2 align="Left">Tools & DevOps</h2>
+<h2 align="Left">DevOps</h2>
 <div>
     <div align="center" width="380">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="aws logo"  />
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h2 align="Left">Edge & IoT</h2>
+<h2 align="Left">Edge</h2>
 <div>
     <div align="center" width="380">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="40" alt="aws logo"  />
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h2 align="Left">Web / API / Formats</h2>
+<h2 align="Left">Web</h2>
 <div>
     <div align="center" width="380">
       <img width="12" />
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h2 align="Left">Cloud Platforms</h2>
+<h2 align="Left">Cloud</h2>
 <div>
     <div align="center" width="380">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
