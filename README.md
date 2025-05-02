@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 ###
 
+<table>
+  <tr>
+    <td>
 <h2 align="left">Languages</h2>
 
 ###
@@ -138,6 +141,9 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+</td>
+<td>
+
 ###
 
 <h2 align="Left">GitHub Stats</h2>
@@ -164,6 +170,10 @@ Here are some ideas to get you started:
 </p>
 -->
 
+</td>
+
+</tr>
+</table>
     
 
 
