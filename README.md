@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2 align="left">Connect with me:</h2>
 
 <p align="center">
-  <a href="https://bernardlawes.com" title="Visit my website (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://bernardlawes.com" title="Visit my website (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=Google-Chrome&logoColor=white" width="200px"></a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/bernardlawes/" title="Connect on LinkedIn (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img width="12" />
