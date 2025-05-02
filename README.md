@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 
 ###
 
+<p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardlawes&amp;theme=github-compact" alt="GitHub Activity Graph" class="w-full rounded">
+</p>
+
 <table>
   <tr>
     <td>
@@ -160,9 +164,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">
-   <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=bernardlawes&amp;theme=github-compact" alt="GitHub Activity Graph" class="w-full rounded">
-</p>
+
 <p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
