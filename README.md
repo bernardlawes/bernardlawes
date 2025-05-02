@@ -161,6 +161,9 @@ Here are some ideas to get you started:
 
 ###
 
+<p align="center">
+   <img width="870px" src="https://github-readme-activity-graph.vercel.app/graph?username=bernardlawes&amp;theme=github-compact" alt="GitHub Activity Graph" class="w-full rounded">
+</p>
 
 <p align="center">
   <img width="870" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
