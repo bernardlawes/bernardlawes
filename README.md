@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://bernardlawes.com" title="Visit my website (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=Google-Chrome&logoColor=white" width="150px"></a> 
-  <img width="12" />
+  <img width="15" />
   <a href="https://www.linkedin.com/in/bernardlawes/" title="Connect on LinkedIn (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  width="150px"></a> 
-  <img width="12" />
+  <img width="15" />
   <a href="https://github.com/bernardlawes" title="Visit my GitHub (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  width="150px"></a>
-  <img width="12" />
+  <img width="15" />
 </p>
 
 ###
