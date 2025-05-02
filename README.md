@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h2 align="Left">Tools & Devops</h2>
+<h2 align="Left">Tools & DevOps</h2>
 <div>
     <div align="center" width="380">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="aws logo"  />
