@@ -64,11 +64,7 @@ Here are some ideas to get you started:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />        
+      <img width="12" />     
     </div>
 </div>
 
@@ -87,7 +83,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h2 align="Left">DevOps</h2>
+<h2 align="Left">Tools & DevOps</h2>
 <div>
     <div align="center" width="380">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="aws logo"  />
@@ -95,6 +91,14 @@ Here are some ideas to get you started:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="sqlite logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="postgresql logo"  />
+      <img width="12" /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="nestjs logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="nestjs logo"  />
+      <img width="12" />   
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="nestjs logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="nestjs logo"  />
       <img width="12" />   
     </div>
 </div>
