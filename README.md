@@ -163,7 +163,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="870" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 
