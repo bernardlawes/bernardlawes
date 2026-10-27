@@ -4,7 +4,7 @@
 
 Most computer vision projects start with an available RGB image and a pretrained model. I work farther upstream. I determine what must be observed, how it should be measured, and whether the resulting signal can support a reliable operational decision. Then I build the system that carries it from sensor to deployed application.
 
-Over 10+ years I've delivered imagery and vision systems for defense, maritime, agriculture, and environmental clients across 23 countries. I currently run [Spatial Mapping](https://bernardlawes.com), an independent vision engineering practice.
+Over 20+ years I've delivered imagery and vision systems for defense, maritime, agriculture, and environmental clients across 23 countries. I currently run [Spatial Mapping](https://bernardlawes.com), an independent vision engineering practice.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
