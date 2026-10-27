@@ -17,7 +17,7 @@ Over 10+ years I've delivered imagery and vision systems for defense, maritime, 
 
 <img src="assets/wildfire-before-after.webp" width="100%" alt="The same forest scene in visible light, where smoke hides the fire, and measured beyond the visible spectrum, showing active fire fronts and the burn scar.">
 
-<sub>Same scene, two measurements. In visible light the fire is hidden by smoke; measured beyond RGB, the active fire fronts and burn scar emerge. WorldView-3 imagery © Maxar Technologies (DigitalGlobe).</sub>
+<sub>Same scene, two measurements. In visible light the fire is hidden by smoke; measured beyond RGB, the active fire fronts and burn scar emerge. Source imagery © Maxar Technologies; processed result is my own work.</sub>
 
 | Problem | Approach | Result |
 |---|---|---|
