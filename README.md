@@ -15,13 +15,13 @@ Over 10+ years I've delivered imagery and vision systems for defense, maritime, 
 
 ### Selected work
 
-<img src="assets/wildfire-before-after.webp" width="100%" alt="The same forest scene in visible light, where smoke hides the fire, and measured beyond the visible spectrum, showing active fire fronts and the burn scar.">
+<img src="assets/wildfire-smoke.webp" width="100%" alt="The same forest scene in visible light, where smoke hides the fire, and measured beyond the visible spectrum, showing active fire fronts and the burn scar.">
 
 <sub>Same scene, two measurements. In visible light the fire is hidden by smoke; measured beyond RGB, the active fire fronts and burn scar emerge. Source imagery © Maxar Technologies; processed result is my own work.</sub>
 
 | Problem | Approach | Result |
 |---|---|---|
-| **Wildfire under smoke**: find active fire and burn extent where smoke hides the scene in visible light | Shortwave and thermal infrared bands; separate fire signatures from smoke, reflected sunlight, and noise | Perimeter accuracy **0.96**, false-alarm rate **0.03** |
+| **Wildfire under smoke**: find active fire and burn extent where smoke hides the scene in visible light | Spectral bands beyond the visible; separate fire signatures from smoke, reflected sunlight, and noise | Perimeter accuracy **0.96**, false-alarm rate **0.03** |
 | **Maritime vessel detection**: detect and geolocate vessels through haze, cloud, and sea state | Resolution-matched optical imagery, segmentation, fusion with incomplete AIS tracks | Detection precision **0.93** (n = 84, 3 scenes) |
 | **Tree census and yield**: tree-level crop health before stress is visible in RGB | Calibrated multispectral imagery across the red edge and NIR; per-crown vegetation indices | **17,285** palms censused; crown detection **0.89**, count accuracy **0.91** |
 | **Aircraft reconnaissance**: identify small targets at arbitrary orientations across large airfield scenes | GSD-matched tiling, detection, then shape-based classification and pattern matching (C++, OpenCV) | Metrics available under NDA |
