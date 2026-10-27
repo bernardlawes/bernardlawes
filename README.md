@@ -1,197 +1,73 @@
-## Hi there 👋
+# Bernard Lawes
+
+**Vision and geospatial AI engineer · Solutions Architect · Miami (open to remote)**
+
+Most computer vision projects start with an available RGB image and a pretrained model. I work farther upstream. I determine what must be observed, how it should be measured, and whether the resulting signal can support a reliable operational decision. Then I build the system that carries it from sensor to deployed application.
+
+Over 10+ years I've delivered imagery and vision systems for defense, maritime, agriculture, and environmental clients across 23 countries. I currently run [Spatial Mapping](https://bernardlawes.com), an independent vision engineering practice.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <img src="assets/pipeline-light.svg" width="100%" alt="Measurement-first pipeline: physics, sensor, signal, model, decision. Most computer vision projects start at the model stage.">
+</picture>
+
+---
+
+### Selected work
+
+<img src="assets/wildfire-rgb-vs-swir.webp" width="100%" alt="The same forest scene in visible light, where smoke hides the fire, and as a shortwave infrared composite showing active fire fronts and the burn scar.">
+
+<sub>Same scene, two measurements. In visible light the fire is hidden by smoke; shortwave infrared passes through it. WorldView-3 imagery © Maxar Technologies (DigitalGlobe).</sub>
+
+| Problem | Approach | Result |
+|---|---|---|
+| **Wildfire under smoke**: find active fire and burn extent where smoke hides the scene in visible light | Shortwave and thermal infrared bands; separate fire signatures from smoke, reflected sunlight, and noise | Perimeter accuracy **0.96**, false-alarm rate **0.03** |
+| **Maritime vessel detection**: detect and geolocate vessels through haze, cloud, and sea state | Resolution-matched optical imagery, segmentation, fusion with incomplete AIS tracks | Detection precision **0.93** (n = 84, 3 scenes) |
+| **Tree census and yield**: tree-level crop health before stress is visible in RGB | Calibrated multispectral imagery across the red edge and NIR; per-crown vegetation indices | **17,285** palms censused; crown detection **0.89**, count accuracy **0.91** |
+| **Aircraft reconnaissance**: identify small targets at arbitrary orientations across large airfield scenes | GSD-matched tiling, detection, then shape-based classification and pattern matching (C++, OpenCV) | Metrics available under NDA |
+
+Full case studies, imagery, and an interactive spectral lab are at **[bernardlawes.com](https://bernardlawes.com/work.html)**.
+
+---
+
+### What I work on
+
+**Vision AI.** Detection, segmentation, and classification with PyTorch, YOLO, RF-DETR, and SAM. I take models from training to optimized inference with ONNX and TensorRT, and integrate them into desktop, mobile, and edge applications.
+
+**Classical computer vision.** OpenCV, feature matching, camera calibration, photogrammetry, and spectral analysis. I build image-processing pipelines where a measurable signal matters more than a larger model.
+
+**Remote sensing and geospatial.** Satellite, aerial, and drone imagery: multispectral, SWIR, and thermal. Radiometric calibration, registration, coordinate systems, and spectral indices. Tiling and map rendering for large rasters. GDAL, rasterio, GIS, IDL, ENVI.
+
+**Applications and architecture.** Desktop and mobile software that puts this work in front of operators: C++, C#, Python, Swift, JavaScript, and PHP, with Qt, .NET, Flutter, and React Native. Secure handling of sensitive imagery and data, including encryption in transit and at rest.
+
+**Agentic AI (current focus).** I'm building agent-based tools that automate imagery triage and report generation using the Claude and OpenAI APIs, MCP, and RAG.
+<!-- Add when ready: [Repo or write-up →](https://github.com/bernardlawes/REPO-NAME) -->
 
 <!--
-**bernardlawes/bernardlawes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+==============================================================================
+OPEN-SOURCE PROJECTS
+Uncomment this block once at least two of the repos below are public.
+Uncomment one entry at a time as each repo goes up, and delete entries you
+don't use. Keep each description to one line: what it does + one hard number.
+Pin the same repos on your profile (Customize your pins) so both views agree.
+==============================================================================
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Open-source projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**REPO-NAME**](https://github.com/bernardlawes/REPO-NAME) | Detection / segmentation for [TARGET] with ONNX and TensorRT export; [X] ms per frame on [HARDWARE] | PyTorch, [YOLO / RF-DETR], ONNX, TensorRT |
+| [**REPO-NAME**](https://github.com/bernardlawes/REPO-NAME) | [Calibration / feature-matching / photogrammetry] tool for [USE CASE]; [reprojection error / accuracy figure] | C++, OpenCV |
+| [**REPO-NAME**](https://github.com/bernardlawes/REPO-NAME) | Raster pipeline that [ingests / calibrates / tiles / computes indices for] [DATA SOURCE]; handles [SCENE SIZE / VOLUME] | Python, GDAL, rasterio |
+| [**REPO-NAME**](https://github.com/bernardlawes/REPO-NAME) | [Desktop / mobile] app for [WHO] to [DO WHAT] with imagery | [Qt / .NET / Flutter / Swift] |
+| [**REPO-NAME**](https://github.com/bernardlawes/REPO-NAME) | Agent that triages imagery and drafts reports: [WHAT IT DECIDES, WHAT IT PRODUCES] | Claude / OpenAI APIs, MCP, RAG |
+
 -->
 
-<p align="left">My name is Bernard and just here to share and learn</p>
+---
 
-###
+### Contact
 
-<h2 align="left">About me</h2>
-
-###
-<p align="left">✨ Creating bugs since 2001<br>👨‍💻 Technical polymath. Globe Trotter. Builder at heart.<br/>📚 From the streets of Kyoto to the clouds of AWS, I'm a solutions architect who doesn't just pitch innovation — I build it<br>🎯 Goals: On a mission to make tech that thinks faster, sees sharper, and works smarter<br>🎲 Fun fact: ...</p>
-
-###
-
-
-
-
-<h2 align="left">Connect with me:</h2>
-
-<p align="center">
-  <a href="https://bernardlawes.com" title="Visit my website (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=Google-Chrome&logoColor=white"  width="150px"></a> 
-  <img width="15" />
-  <a href="https://www.linkedin.com/in/bernardlawes/" title="Connect on LinkedIn (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  width="150px"></a> 
-  <img width="15" />
-  <a href="https://github.com/bernardlawes" title="Visit my GitHub (Ctrl+Click to open in new tab)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  width="150px"></a>
-  <img width="15" />
-</p>
-
-###
-
-
-<h2 align="left">Languages</h2>
-
-###
-
-<div>
-    <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="typescript logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="csharp logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="csharp logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />     
-    </div>
-</div>
-
-<h2 align="Left">Database</h2>
-<div>
-    <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-      <img width="12" />   
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azure sql database logo" />  
-      <img width="12" />   
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="azure sql database logo" />  
-    </div>
-</div>
-
-<h2 align="Left">Tools & DevOps</h2>
-<div>
-    <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="aws logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="sqlite logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="postgresql logo"  />
-      <img width="12" /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />   
-    </div>
-</div>
-
-<h2 align="Left">MLOps</h2>
-<div>
-    <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="nestjs logo"  />
-      <img width="12" />   
-    </div>
-</div>
-<!--
-<h2 align="Left">Edge</h2>
-<div>
-    <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="40" alt="aws logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="sqlite logo"  />
-      <img width="12" />
-    </div>
-</div>
--->
-<h2 align="Left">Web</h2>
-<div>
-    <div align="center" width="380">
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" alt="css logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="jest logo"  />
-    </div>
-</div>
-
-<h2 align="Left">Cloud</h2>
-<div>
-    <div align="center" width="380">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="sqlite logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="postgresql logo"  />
-      <img width="12" />   
-    </div>
-</div>
-
-
-
-###
-
-<h2 align="Left">GitHub Stats</h2>
-
-###
-
-<p align="center">
-   <img width="870px" src="https://github-readme-activity-graph.vercel.app/graph?username=bernardlawes&amp;theme=github-compact" alt="GitHub Activity Graph" class="w-full rounded">
-</p>
-
-<p align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-
-<p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardlawes&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-
-<p align="center">
-  <img width="600"  src="https://github-readme-stats.vercel.app/api?username=bernardlawes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<!--
-<p align="center">
-  <img width="200"  src="https://img.shields.io/github/followers/bernardlawes?label=Follow&style=social&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-</p>
--->
-
-
-    
-
-
-
-
-
-
-<p align="center">
-  
-</p>
-
-
-
+[bernardlawes.com](https://bernardlawes.com) · [LinkedIn](https://www.linkedin.com/in/bernardlawes/) · hello@bernardlawes.com

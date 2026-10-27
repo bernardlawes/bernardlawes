@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 272" width="1200" height="272" role="img" aria-labelledby="t">
+<title id="t">Measurement-first pipeline: physics, sensor, signal, model, decision. Most computer vision projects start at the model.</title>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b98a5"/></marker></defs>
+<style>.h{font:600 23px "Segoe UI",Helvetica,Arial,sans-serif;letter-spacing:.06em}.n{font:500 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.12em}.s{font:400 14px "Segoe UI",Helvetica,Arial,sans-serif}.c{font:500 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.08em}</style>
+<rect x="24.0" y="78" width="212" height="108" fill="#0d1622" stroke="#42d7e8" stroke-width="1.5"/>
+<text x="42.0" y="106" class="n" fill="#42d7e8">01</text>
+<text x="42.0" y="140" class="h" fill="#e6edf3">PHYSICS</text>
+<text x="42.0" y="167" class="s" fill="#8b98a5">Material · heat · biology</text>
+<line x1="241.0" y1="132.0" x2="254.0" y2="132.0" stroke="#8b98a5" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="259.0" y="78" width="212" height="108" fill="#0d1622" stroke="#42d7e8" stroke-width="1.5"/>
+<text x="277.0" y="106" class="n" fill="#42d7e8">02</text>
+<text x="277.0" y="140" class="h" fill="#e6edf3">SENSOR</text>
+<text x="277.0" y="167" class="s" fill="#8b98a5">Wavelength · resolution</text>
+<line x1="476.0" y1="132.0" x2="489.0" y2="132.0" stroke="#8b98a5" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="494.0" y="78" width="212" height="108" fill="#0d1622" stroke="#42d7e8" stroke-width="1.5"/>
+<text x="512.0" y="106" class="n" fill="#42d7e8">03</text>
+<text x="512.0" y="140" class="h" fill="#e6edf3">SIGNAL</text>
+<text x="512.0" y="167" class="s" fill="#8b98a5">Calibration · registration</text>
+<line x1="711.0" y1="132.0" x2="724.0" y2="132.0" stroke="#8b98a5" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="729.0" y="78" width="212" height="108" fill="#0d1622" stroke="#42d7e8" stroke-width="1.5"/>
+<text x="747.0" y="106" class="n" fill="#42d7e8">04</text>
+<text x="747.0" y="140" class="h" fill="#e6edf3">MODEL</text>
+<text x="747.0" y="167" class="s" fill="#8b98a5">Detect · segment · classify</text>
+<line x1="946.0" y1="132.0" x2="959.0" y2="132.0" stroke="#8b98a5" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="964.0" y="78" width="212" height="108" fill="#0d1622" stroke="#42d7e8" stroke-width="1.5"/>
+<text x="982.0" y="106" class="n" fill="#42d7e8">05</text>
+<text x="982.0" y="140" class="h" fill="#e6edf3">DECISION</text>
+<text x="982.0" y="167" class="s" fill="#8b98a5">Alert · prioritize · act</text>
+<path d="M24.0,66 V54 H1176.0 V66" fill="none" stroke="#42d7e8" stroke-width="1.5"/>
+<text x="24.0" y="40" class="c" fill="#42d7e8">THE CHAIN I ENGINEER: FROM PHYSICAL SIGNAL TO OPERATIONAL DECISION</text>
+<path d="M729.0,198 V210 H1176.0 V198" fill="none" stroke="#7d8894" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="729.0" y="236" class="c" fill="#7d8894">WHERE MOST CV PROJECTS START</text>
+</svg>
