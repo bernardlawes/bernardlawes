@@ -19,6 +19,10 @@ Over 10+ years I've delivered imagery and vision systems for defense, maritime, 
 
 <sub>Same scene, two measurements. In visible light the fire is hidden by smoke; measured beyond RGB, the active fire fronts and burn scar emerge. Source imagery © Maxar Technologies; processed result is my own work.</sub>
 
+<img src="assets/vessel-detection.webp" width="100%" alt="Open-water satellite scene with an island, haze, and cloud, beside the segmented result marking vessels and structures, cloud, and vegetation.">
+
+<sub>Vessels detected through haze and cloud cover, with cloud and land segmented out so they aren't mistaken for targets. Source imagery © Maxar Technologies; processed result is my own work.</sub>
+
 | Problem | Approach | Result |
 |---|---|---|
 | **Wildfire under smoke**: find active fire and burn extent where smoke hides the scene in visible light | Spectral bands beyond the visible; separate fire signatures from smoke, reflected sunlight, and noise | Perimeter accuracy **0.96**, false-alarm rate **0.03** |
